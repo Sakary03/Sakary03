@@ -1,4 +1,5 @@
 ## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/SakaryVN?theme=dark&font=Petrona&ext=contest)
 
 <!--
 **Sakary03/Sakary03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
